@@ -149,3 +149,8 @@
 - Artist: 레드벨벳
 - Genre: K-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=WyiIGEHQP8o)
+
+## Spicy
+- Artist: Aespa
+- Genre: K-POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=Os_heh8vPfs)
