@@ -149,3 +149,8 @@
 - Artist: 레드벨벳
 - Genre: K-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=WyiIGEHQP8o)
+
+## 애국가
+- Artist: Various Artist
+- Genre: K-POP
+- [유튜브 바로가기]()
