@@ -1,5 +1,10 @@
 # 음악 추천
 
+## josee!
+- Artist: 데이먼스이어
+- Genre: K-pop
+- [유튜브 바로가기](https://youtu.be/qcUqqXqerp4?feature=shared)
+
 ## 락앤롤데이
 - Artist: 달소년
 - Genre: Rock
@@ -14,6 +19,7 @@
 - Artist: 볼빨간사춘기
 - Genre: K-pop
 - [유튜브 바로가기](https://www.youtube.com/watch?v=YDlYsr4dH2Q)
+
 
 ## GHOST TOWN
 - Artist: Benson Boone
