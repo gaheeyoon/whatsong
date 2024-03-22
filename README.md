@@ -240,3 +240,7 @@
 - Genre : 발라드
 - [유튜브 바로가기](https://youtu.be/4PNbtD1LZYo?si=SR5WHJzgZpZ2NyGa)
 
+## Peace sign
+- Artist : Kenshi Yonezu
+- Genre : J-POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=9aJVr5tTTWk)
