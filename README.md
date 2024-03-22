@@ -240,3 +240,7 @@
 - Genre : 발라드
 - [유튜브 바로가기](https://youtu.be/4PNbtD1LZYo?si=SR5WHJzgZpZ2NyGa)
 
+## 한숨
+- Artist : 이하이
+- Genre : 발라드
+- [유튜브 바로가기](https://youtu.be/5iSlfF8TQ9k?si=V48krDLLEdqoIA8q)
