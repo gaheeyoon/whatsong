@@ -1,5 +1,10 @@
 # 음악 추천
 
+## 비오는날
+- Artist: 헤이즈
+- Genre: Ballad
+- [유튜브 바로가기](https://www.youtube.com/watch?v=afxLaQiLu-o&ab_channel=StoneMusicEntertainment)
+
 ## 락앤롤데이
 - Artist: 달소년
 - Genre: Rock
