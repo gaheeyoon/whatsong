@@ -5,6 +5,11 @@
 - Genre: Rock
 - [유튜브 바로가기](https://www.youtube.com/watch?v=D8ZlnldEv8Q)
 
+## 장마
+- Artist: 정인
+- Genre: 발라드
+- [유튜브 바로가기](https://youtu.be/Zm1JcsqbXzs?si=V7folBuKc3N9xtYO)
+
 ## 싸운날
 - Artist: 볼빨간사춘기
 - Genre: K-pop
