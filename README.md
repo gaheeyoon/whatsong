@@ -5,6 +5,11 @@
 - Genre: Rock
 - [유튜브 바로가기](https://www.youtube.com/watch?v=D8ZlnldEv8Q)
 
+## Lil Boo Thang
+- Artist: Lil Boo Thang
+- Genre: POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=5AgDZcM8In8)
+
 ## 싸운날
 - Artist: 볼빨간사춘기
 - Genre: K-pop
