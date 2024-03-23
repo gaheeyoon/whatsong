@@ -1,4 +1,8 @@
 # 음악 추천
+## 밤이 깊었네 Oh! What a Shiny Nigh (Drama Ver.)
+- Artist: 미도와 파라솔
+- Genre: Band
+- [유튜브 바로가기](https://youtu.be/ooADmOarsZw?si=cJCk07H2qKJ1IjM1)
 
 ## 락앤롤데이
 - Artist: 달소년
