@@ -346,3 +346,8 @@
 - Artist: Valeriy Stepanov
 - Genre: Progressive Jazz
 - [유튜브 바로가기](https://www.youtube.com/watch?v=CGf62-MG014)
+
+## Love wins all
+- Artist: IU(아이유)
+- Genre: K-POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=JleoAppaxi0)
