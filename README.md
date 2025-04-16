@@ -10,6 +10,12 @@
 4. 브랜치 만들기: `issueID`-노래 이름 (e.x. `30-seebambar`)
 5. PR 보내기
 
+## Honeymoon Avenue
+
+- Artist: Ariana Grande
+- Genre: pop
+- [유튜브바로가기](https://youtu.be/_tJM74eZy04?si=t27iMY-WSw-_fMyk)
+
 ## World's Smallest Violin
 
 - Artist: AJR
