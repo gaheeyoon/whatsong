@@ -10,6 +10,12 @@
 4. 브랜치 만들기: `issueID`-노래 이름 (e.x. `30-seebambar`)
 5. PR 보내기
 
+## 야생화
+
+- Artist: 박효신
+- Genre : ballad
+- [유튜브 바로가기](https://www.youtube.com/results?search_query=%EB%B0%95%ED%9A%A8%EC%8B%A0+%EC%95%BC%EC%83%9D%ED%99%94)
+
 ## World's Smallest Violin
 
 - Artist: AJR
