@@ -10,6 +10,12 @@
 4. 브랜치 만들기: `issueID`-노래 이름 (e.x. `30-seebambar`)
 5. PR 보내기
 
+## 네모의 꿈
+
+- Artist: 화이트
+- Genre: 동요
+- [유튜브 바로가기](https://youtu.be/r4BgjyPTzLk?si=F8oxv4pvqjZDpfrp)
+
 ## World's Smallest Violin
 
 - Artist: AJR
