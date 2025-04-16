@@ -1013,3 +1013,9 @@
 - Artist : Mrs. Green Apple
 - Genre : J-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=QjrkrVmC-8M)
+
+## 가을아침
+
+- Artist : 아이유
+- Genre : K-POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=ZDoH5dQ58ps)
