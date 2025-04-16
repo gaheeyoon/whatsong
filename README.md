@@ -2,6 +2,12 @@
 
 좋아하는 음악을 추천해주세요!
 
+## 막걸리 한 잔
+
+- Artist: 영탁
+- Genre: Trot
+- [유튜브 바로가기](https://www.youtube.com/watch?v=npXaoOA2yS0)
+
 ## Contribution 방법
 
 1. 저장소 포크하기
