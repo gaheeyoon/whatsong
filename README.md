@@ -16,6 +16,13 @@
 - Genre: pop
 - [유튜브 바로가기](https://www.youtube.com/watch?v=PEnJbjBuxnw)
 
+## Welcom to the jungle
+
+- artist : Gun's 
+- Genre : rock
+- [유튜브 바로가기] (https://www.youtube.com/watch?v=o1tj2zJ2Wvg)
+
+
 ## 봉선화
 
 - Artist: 후피(Whoopy)
