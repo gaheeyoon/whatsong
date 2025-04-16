@@ -10,6 +10,12 @@
 4. 브랜치 만들기: `issueID`-노래 이름 (e.x. `30-seebambar`)
 5. PR 보내기
 
+## Welcome to the jungle
+
+- Artist: Gun's and Rose's
+- Genre: rock
+- [유튜브 바로가기](https://www.youtube.com/watch?v=o1tj2zJ2Wvg)
+
 ## World's Smallest Violin
 
 - Artist: AJR
