@@ -10,6 +10,12 @@
 4. 브랜치 만들기: `issueID`-노래 이름 (e.x. `30-seebambar`)
 5. PR 보내기
 
+## Welcome to the show
+
+- Artist: Day'6
+- Genre: band
+- [유튜브 바로가기](https://www.youtube.com/watch?v=RowlrvmyFEk)
+
 ## World's Smallest Violin
 
 - Artist: AJR
