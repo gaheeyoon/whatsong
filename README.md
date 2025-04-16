@@ -1013,3 +1013,10 @@
 - Artist : Mrs. Green Apple
 - Genre : J-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=QjrkrVmC-8M)
+
+
+## Slow Motion
+
+- Artist : 태연
+- Genre : POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=7hLqc_-NE7s&pp=ygUL7YOc7JewIHNsb3c%3D)
