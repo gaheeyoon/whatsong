@@ -10,6 +10,13 @@
 4. 브랜치 만들기: `issueID`-노래 이름 (e.x. `30-seebambar`)
 5. PR 보내기
 
+
+## 사랑이 아니라고 말하지 말아요
+
+- Artist: 윤하
+- Genre: Ballad
+- [유튜브 바로가기](https://www.youtube.com/watch?v=ww-E3_Tl3IQ).
+
 ## World's Smallest Violin
 
 - Artist: AJR
