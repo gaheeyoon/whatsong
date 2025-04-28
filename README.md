@@ -13,7 +13,7 @@
 ## 꿈처럼
 
 - Artist: 존박
-- Genre: Ballad
+- Genre: 발라드
 - [유튜브 바로가기] (https://youtu.be/VmRleZXUJ9I?feature=shared)
 
 ## World's Smallest Violin
