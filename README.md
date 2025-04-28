@@ -10,11 +10,31 @@
 4. 브랜치 만들기: `issueID`-노래 이름 (e.x. `30-seebambar`)
 5. PR 보내기
 
+
 ## Come Over
 
 - Artist: 르세라핌
 - Genre: k-pop
 - https://www.youtube.com/watch?v=fegR7cBBATg
+
+## Paradise City
+
+- Artist: Guns N' Roses
+- Genre: rock
+- [유튜브 바로가기](https://www.youtube.com/watch?v=Rbm6GXllBiw)
+
+## Eyes closed
+
+- Artist: Ed sheeran
+- Genre: pop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=FUzc9qqBn4s)
+
+## 반딧불
+
+- Artist: 도영
+- Genre: Kpop
+- [유튜브 바로가기](https://youtu.be/UZjGcAjd8Ok?si=gQcTwWGqj-6y6Mk0)
+
 
 ## World's Smallest Violin
 
