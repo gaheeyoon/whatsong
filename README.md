@@ -10,6 +10,12 @@
 4. 브랜치 만들기: `issueID`-노래 이름 (e.x. `30-seebambar`)
 5. PR 보내기
 
+## 꿈처럼
+
+- Artist: 존박
+- Genre: Ballad
+- [유튜브 바로가기] (https://youtu.be/VmRleZXUJ9I?feature=shared)
+
 ## World's Smallest Violin
 
 - Artist: AJR
@@ -805,26 +811,31 @@
 - [유튜브 바로가기](https://www.youtube.com/watch?v=CGf62-MG014)
 
 ## 봄이 와도
+
 - Artist: 로이킴
 - Genre: 발라드
 - [유튜브 바로가기](https://www.youtube.com/watch?v=moVgOwYOXec)
 
 ## Sweet Child O' Mine
+
 - Artist: Guns N' Roses
 - Genre: Hard Rock
 - [유튜브 바로가기](https://www.youtube.com/watch?v=1w7OgIMMRc4)
 
 ## Gift
+
 - Artist: 박효신
 - Genre: 발라드
 - [유튜브 바로가기](https://youtu.be/haM03BYST8c?si=1lOwdjpHLTlhF4lD)
 
 ## 닭발 그 위대한 음식에 대하여
+
 - Artist: 독일브렌드티셔츠
 - Genre: Rock
 - [유튜브 바로가기](https://www.youtube.com/watch?v=ypGwL4aSVyw)
 
 ## The Ocean
+
 - Artist: Mike Perry
 - Genre: Tropical House
 - [유튜브 바로가기](https://www.youtube.com/watch?v=mGQFZxIuURE)
@@ -842,26 +853,31 @@
 - [유튜브 바로가기](https://www.youtube.com/watch?v=xbfvVj30S5o&ab_channel=GENIEMUSIC)
 
 ## 정류장
+
 - Artist : 버스커버스커
   -Genre : K-pop
 - [유튜브 바로가기](https://www.youtube.com/watch?v=4A4O7SP5fa0)
 
 ## 고민중독
+
 - Artist: QWER
 - Genre: K-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=ImuWa3SJulY)
 
 ## 60's Cardin
+
 - Artist: Glen Check
 - Genre: Electronic Band
 - [유튜브 바로가기](https://www.youtube.com/watch?v=0fN71Wtgoa8)
 
 ## 덤디덤디
+
 - Artist: 아이들
 - Genre: K-POP
 - [유튜브 바로가기](https://youtu.be/HPQ5mqovXHo?si=peTMm5Fpv1bulBGU)
 
 ## 몇 번의 여름
+
 - Artist: TOIL, Gist
 - Genre: indie pop
 - [유튜브 바로가기](https://youtu.be/y2Uprrjoul8?si=2EDLG2v50ssGPXhS)
@@ -873,11 +889,13 @@
 - [유튜브 바로가기](https://www.youtube.com/watch?v=uyaKoj7wABY)
 
 ## Standing next to oyu
+
 - Artist: Jungkook
 - Genre: Dance
 - [유튜브 바로가기](https://youtu.be/UNo0TG9LwwI?si=vzBn2F3w2jR_gIUy)
 
 ## yours
+
 - Artist: 데이먼스 이어
 - Genre: PIndie Rock
 - [유튜브 바로가기](https://www.youtube.com/watch?v=VHj6IYA-Dxs)
@@ -889,46 +907,55 @@
 - [유튜브 바로가기](https://www.youtube.com/watch?v=ZcGB8Yc_SlE)
 
 ## Love
+
 - Artist: keyshia cole
 - Genre: POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=9PBZy9j3H3I)
 
 ## 끝말잇기
+
 - Artist: TOIL, Gist Feat. Skinny Brown
 - Genre: hip-hop
 - [유튜브 바로가기](https://www.youtube.com/watch?v=29SIy5XPPv4)
 
 ## Catalina
+
 - Artist: Taiwan MC, Paloma Pradal
 - Genre: Dancehall
 - [유튜브 바로가기](https://youtu.be/E7i-prhDw9A?si=0oB_7U-hf8y3RlQv)
 
 ## 하루 하루
+
 - Artist: 빅뱅
 - Genre: k-pop
 - [유튜브 바로가기](https://youtu.be/8OAQ6RuYFGE?si=4frxLPcbpO4-UdGF)
 
 ## APT.
+
 - Artist: ROSÉ & Bruno Mars
 - genre: POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=ekr2nIex040)
 
 ## 첫사랑
+
 - Artist: 백아
 - Genre: Indie, Folk/Blues
 - [유튜브 바로가기](https://youtu.be/vVrFyMDMrlM?si=zpKtehIOwG71dEPp)
 
 ## 흰수염고래
+
 - Artist: 윤도현
 - Genere: 발라드
 - [유튜브 바로가기](https://www.youtube.com/watch?v=iD54IrEyiK8)
 
 ## Own my hero
+
 - Artist: Andy Grammer
 - Genre: POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=16kb228Kb8I&rco=1)
 
 ## Odoriko
+
 - Artist: Vaundy
 - Genre: J-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=zqwk1ionxcA)
@@ -946,9 +973,10 @@
 - [유튜브 바로가기](https://www.youtube.com/watch?v=acvIVA9-FMQ)
 
 ## Noid
+
 - Artist: Tyler, The Creator
 - Genre: Hip-Hop
-- [유튜브_바로가기](https://www.youtube.com/watch?v=Qer3lwd5hyA)
+- [유튜브\_바로가기](https://www.youtube.com/watch?v=Qer3lwd5hyA)
 
 ## AK47
 
@@ -987,17 +1015,19 @@
 - [유튜브 바로가기](https://www.youtube.com/watch?v=0x0SZi5weg4)
 
 ## 별을 담은 시
+
 - Artist : 마크툽, 이라온
 - Genre : 발라드
 - [유튜브 바로가기기](https://www.youtube.com/watch?v=QlAFlgmMmAU)
 
-## 안녕 내 전부였던 너 
+## 안녕 내 전부였던 너
 
 - Artist : 펀치
 - Genre : 발라드
 - [유튜브 바로가기](https://www.youtube.com/watch?v=WZ-fe6LWx6E)
 
 ## 안아줘
+
 - Artist: Lil Boo Thang
 - Genre: POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=W4SXOQ7xFoo)
