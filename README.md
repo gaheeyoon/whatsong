@@ -1055,3 +1055,8 @@
 - Artist : Mrs. Green Apple
 - Genre : J-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=QjrkrVmC-8M)
+
+# 블루밍
+- Artist : IU
+- Genre : K-POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=QjrkrVmC-8M)
