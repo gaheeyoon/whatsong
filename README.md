@@ -1055,3 +1055,9 @@
 - Artist : Mrs. Green Apple
 - Genre : J-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=QjrkrVmC-8M)
+
+## Utatane
+
+- Artist : Leina
+- Genre : J-POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=QjrkrVmC-8M)
