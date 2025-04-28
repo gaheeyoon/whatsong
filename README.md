@@ -1055,3 +1055,9 @@
 - Artist : Mrs. Green Apple
 - Genre : J-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=QjrkrVmC-8M)
+
+## 숲
+
+- Artist : 최유리
+- Genre : 인디음악
+- [유튜브 바로가기](https://www.youtube.com/watch?v=cu9VVH9cSWc&list=RDcu9VVH9cSWc&start_radio=1)
