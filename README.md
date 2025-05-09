@@ -30,6 +30,12 @@
 
 ## World's Smallest Violin
 
+## TOO BAD
+
+- Artist: GD
+- Genre: k-pop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=o9DhvbqYzns)
+
 - Artist: AJR
 - Genre: pop
 - [유튜브 바로가기](https://www.youtube.com/watch?v=PEnJbjBuxnw)
