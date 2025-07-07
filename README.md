@@ -1055,3 +1055,9 @@
 - Artist : Mrs. Green Apple
 - Genre : J-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=QjrkrVmC-8M)
+
+## Handlebars
+
+- Artist : Jennie & Dua Lipa
+- Genre : POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=S6m97N7fa3c)
