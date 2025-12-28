@@ -1117,3 +1117,9 @@
 - Artist : 이영현
 - Genre : 발라드
 - [유튜브 바로가기](https://youtu.be/ARJ5bXkof30?si=6Dnb4TKDRzGFu-Zz)
+
+## Good Together
+
+- Artist : HONNE
+- Genre : POP
+- [유튜브 바로가기](https://youtu.be/E2vTXwQX1pE?si=liUCdbHpl5oD00Fd)
