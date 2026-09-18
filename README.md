@@ -12,6 +12,12 @@
 
 ## Paradise City
 
+- Artist: 한로로
+- Genre: Indie Rock
+- [유튜브 바로가기](https://www.youtube.com/watch?v=Tos8R9Tcem8)
+
+## Paradise City
+
 - Artist: Guns N' Roses
 - Genre: rock
 - [유튜브 바로가기](https://www.youtube.com/watch?v=Rbm6GXllBiw)
