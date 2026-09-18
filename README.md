@@ -1117,3 +1117,9 @@
 - Artist : 이영현
 - Genre : 발라드
 - [유튜브 바로가기](https://youtu.be/ARJ5bXkof30?si=6Dnb4TKDRzGFu-Zz)
+
+## Just the Two of Us
+
+- Artist : Grover Washington, Jr. · Bill Withers
+- Genre : R&B, Soul, Smooth Jazz
+- [유튜브 바로가기](https://www.youtube.com/watch?v=KYwA5k00p2I)
