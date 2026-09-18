@@ -1117,3 +1117,9 @@
 - Artist : 이영현
 - Genre : 발라드
 - [유튜브 바로가기](https://youtu.be/ARJ5bXkof30?si=6Dnb4TKDRzGFu-Zz)
+
+## 잡초
+
+- Artist : 나훈아
+- Genre: 트로트
+- [유튜브 바로가기](https://www.youtube.com/watch?v=Tsm4KeM-TOg)
