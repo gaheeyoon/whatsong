@@ -16,6 +16,17 @@
 - Genre: modern classic
 - [유튜브 바로가기](https://www.youtube.com/watch?v=agaICvnoWQY&list=RDagaICvnoWQY&start_radio=1)
 
+## Gemini 
+- Artist: 태연
+- Genre: Kpop
+- [유튜브 바로가기](https://youtu.be/eRsi254t-_k?si=crcqCLQyj5e63Pl_)
+
+## 바람, 파도, 돌
+
+- Artist: 홍세환
+- Genre: pop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=1kVMeB1cQ4Y)
+
 ## Paradise City
 
 - Artist: Guns N' Roses
