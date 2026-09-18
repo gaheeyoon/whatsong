@@ -1128,3 +1128,9 @@
 - Artist : 이영현
 - Genre : 발라드
 - [유튜브 바로가기](https://youtu.be/ARJ5bXkof30?si=6Dnb4TKDRzGFu-Zz)
+
+## SUN KISS
+
+- Artist : 튜이드
+- Genre : 소울트로닉(Soultronic)
+- [유튜브 바로가기](https://youtu.be/46h0LvDHgIs?si=RX0JgkziTWVYhdyD)
