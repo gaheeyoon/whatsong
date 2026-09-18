@@ -345,6 +345,12 @@
 - Genre: K-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=WyiIGEHQP8o)
 
+## 15-LOVE
+
+- Artist: Hearts2Hearts
+- Genre: 일렉트로닉
+- [유튜브 바로가기](https://youtu.be/kN5xPleEtMY?si=VzcfAPSirHZa7XHJ)
+
 ## 아름다워
 
 - Artist: 창모
