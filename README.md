@@ -1117,3 +1117,9 @@
 - Artist : 이영현
 - Genre : 발라드
 - [유튜브 바로가기](https://youtu.be/ARJ5bXkof30?si=6Dnb4TKDRzGFu-Zz)
+
+## Missing You
+
+- Artist : 플라이 투 더 스카이
+- Genre : R&B
+- [유튜브 바로가기](https://youtu.be/tWTq_PMXfBE?si=6hyDrehk6GbglsRBhttps://youtu.be/tWTq_PMXfBE?si=6hyDrehk6GbglsRB)
