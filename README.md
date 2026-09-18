@@ -1117,3 +1117,9 @@
 - Artist : 이영현
 - Genre : 발라드
 - [유튜브 바로가기](https://youtu.be/ARJ5bXkof30?si=6Dnb4TKDRzGFu-Zz)
+
+## welcome to the black parade
+
+- Artist: My Chemical Romance
+- Genre: pop
+- [유튜브 바로가기](https://youtu.be/RRKJiM9Njr8?si=XxMw8nt1oC4doj1y)
