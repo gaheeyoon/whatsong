@@ -1117,3 +1117,10 @@
 - Artist : 이영현
 - Genre : 발라드
 - [유튜브 바로가기](https://youtu.be/ARJ5bXkof30?si=6Dnb4TKDRzGFu-Zz)
+
+
+# It Ain't Obvious
+- 노래 제목: (It Ain't Obvious)
+- 아티스트: (Gareth Gates(가레스 게이츠))
+- 장르: (pop)
+- 유튜브 링크: ((https://www.youtube.com/watch?v=gC-U3IHeg10&list=RDgC-U3IHeg10&start_radio=1))
