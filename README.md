@@ -1117,3 +1117,9 @@
 - Artist : 이영현
 - Genre : 발라드
 - [유튜브 바로가기](https://youtu.be/ARJ5bXkof30?si=6Dnb4TKDRzGFu-Zz)
+
+## Lose My Mind
+
+- Artist : Don Toliver
+- Genre : 팝
+- [유튜브 바로가기](youtube.com/watch?v=WWEs82u37Mw&time_continue=0&source_ve_path=NzY3NTg&embeds_referring_euri=https%3A%2F%2Fnamu.wiki%2F)
