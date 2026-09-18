@@ -10,6 +10,13 @@
 4. 브랜치 만들기: `issueID`-노래 이름 (e.x. `30-seebambar`)
 5. PR 보내기
 
+## BOLO
+
+- Artist: PENOMECO
+- Genre: hiphop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=8r6pi-oih0o&list=RD8r6pi-oih0o&start_radio=1)
+
+
 ## Paradise City
 
 - Artist: Guns N' Roses
