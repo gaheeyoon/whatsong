@@ -10,6 +10,12 @@
 4. 브랜치 만들기: `issueID`-노래 이름 (e.x. `30-seebambar`)
 5. PR 보내기
 
+## 천년의 사랑
+
+- Artist: 박완규
+- Genre: 발라드
+- [유튜브 바로가기](https://www.youtube.com/watch?v=3m0-_vnNtI4&list=RD3m0-_vnNtI4&start_radio=1)
+
 ## Paradise City
 
 - Artist: Guns N' Roses
