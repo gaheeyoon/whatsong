@@ -10,6 +10,13 @@
 4. 브랜치 만들기: `issueID`-노래 이름 (e.x. `30-seebambar`)
 5. PR 보내기
 
+## 눈사람
+
+- Artist: 정승환
+- Genre: pop
+- [유튜브 바로가기](https://youtu.be/gPNu9OIj4Zo?si=6H735KdvUXXMmZBV)
+
+
 ## Paradise City
 
 - Artist: Guns N' Roses
