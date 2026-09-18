@@ -9,6 +9,11 @@
 3. 포크한 프로젝트를 클론하기
 4. 브랜치 만들기: `issueID`-노래 이름 (e.x. `30-seebambar`)
 5. PR 보내기
+## Christmas Tree
+
+- Artist: v
+- Genre: 어쿠스틱 팝(Acoustic Pop)
+- [유튜브 바로가기](https://www.youtube.com/watch?v=lj8TV9q59P4)
 
 ## Gemini 
 - Artist: 태연
