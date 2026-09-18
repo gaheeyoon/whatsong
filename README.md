@@ -16,6 +16,13 @@
 - Genre: rock
 - [유튜브 바로가기](https://www.youtube.com/watch?v=Rbm6GXllBiw)
 
+## perfect
+
+- Artist: one direction
+- Genre: pop
+- [유튜브 바로가기](https://youtu.be/fFvyIdxx74M?si=fN_GZyOHIB8i9DbH)
+
+
 ## Eyes closed
 
 - Artist: Ed sheeran
