@@ -9,6 +9,11 @@
 3. 포크한 프로젝트를 클론하기
 4. 브랜치 만들기: `issueID`-노래 이름 (e.x. `30-seebambar`)
 5. PR 보내기
+## Pretender
+
+- Artist: Official髭男dism
+- Genre: J-POP
+- [유튜브 바로가기](https://youtu.be/TQ8WlA2GXbk?si=7r_m_s58O6HNgsS6)
 
 ## Paradise City
 
