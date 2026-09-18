@@ -1117,3 +1117,9 @@
 - Artist : 이영현
 - Genre : 발라드
 - [유튜브 바로가기](https://youtu.be/ARJ5bXkof30?si=6Dnb4TKDRzGFu-Zz)
+
+## 하이웨이
+
+- Artist: 하현상
+- Genre: rock
+- [유튜브 바로가기](https://youtu.be/DzZRp3tHqPs?si=ApW6kPYtM0nHfb5u)
