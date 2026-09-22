@@ -10,6 +10,11 @@
 4. 브랜치 만들기: `issueID`-노래 이름 (e.x. `30-seebambar`)
 5. PR 보내기
 
+## 한 페이지가 될 수 있게
+- Artist: DAY6 (데이식스)
+- Genre: 록 / 밴드
+- [유튜브 바로가기](https://youtu.be/vnS_jn2uibs?si=46svw-zUE4b9fzfn)
+
 ## 출발
 - Artist: 김동률
 - Genre: Korean Fold/Blues, 한국 발라드, K-pop
