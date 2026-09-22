@@ -1128,3 +1128,9 @@
 - Artist : 이영현
 - Genre : 발라드
 - [유튜브 바로가기](https://youtu.be/ARJ5bXkof30?si=6Dnb4TKDRzGFu-Zz)
+
+## 구름의 그림자
+
+- Artist: 윤하
+- Genre: 발라드
+- [유튜브 바로가기](https://www.youtube.com/watch?v=GiyZ0yQ4090&list=RDGiyZ0yQ4090&start_radio=1)
