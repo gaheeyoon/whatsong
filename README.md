@@ -1138,3 +1138,10 @@
 - Artist : 이영현
 - Genre : 발라드
 - [유튜브 바로가기](https://youtu.be/ARJ5bXkof30?si=6Dnb4TKDRzGFu-Zz)
+
+
+## 거리에서 
+
+- Artist : 성시경
+- Genre : 발라드
+- [유튜브 바로가기](https://youtu.be/8WYz-UEcLks?si=iT6dZr2sSmOeFTdU)
