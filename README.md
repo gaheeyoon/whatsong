@@ -10,6 +10,11 @@
 4. 브랜치 만들기: `issueID`-노래 이름 (e.x. `30-seebambar`)
 5. PR 보내기
 
+## EVERYTHING 
+- Artist: 검정치마
+- Genre: 인디락
+- [유튜브 바로가기](https://www.youtube.com/watch?v=Aq_gsctWHtQ)
+
 ## Gemini 
 - Artist: 태연
 - Genre: Kpop
