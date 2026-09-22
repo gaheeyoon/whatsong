@@ -1128,3 +1128,9 @@
 - Artist : 이영현
 - Genre : 발라드
 - [유튜브 바로가기](https://youtu.be/ARJ5bXkof30?si=6Dnb4TKDRzGFu-Zz)
+
+## 소나기
+
+- Artist : 한동근
+- Genre : 발라드
+- [유튜브 바로가기](https://youtu.be/rtacJIN2UyE)
