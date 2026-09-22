@@ -15,6 +15,11 @@
 - Genre: 록 / 밴드
 - [유튜브 바로가기](https://youtu.be/vnS_jn2uibs?si=46svw-zUE4b9fzfn)
 
+## 출발
+- Artist: 김동률
+- Genre: Korean Fold/Blues, 한국 발라드, K-pop
+- [유튜브 바로가기](https://youtu.be/xgvckGs6xhU)
+
 ## Gemini 
 - Artist: 태연
 - Genre: Kpop
