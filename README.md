@@ -10,6 +10,13 @@
 4. 브랜치 만들기: `issueID`-노래 이름 (e.x. `30-seebambar`)
 5. PR 보내기
 
+
+## Something About Us
+- Artist: Daft Punk
+- Genre: EDM
+- [유튜브 바로가기](https://youtu.be/sOS9aOIXPEk?si=I90QdAIaiDa97XTK)
+
+
 ## Gemini 
 - Artist: 태연
 - Genre: Kpop
