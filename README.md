@@ -10,6 +10,12 @@
 4. 브랜치 만들기: `issueID`-노래 이름 (e.x. `30-seebambar`)
 5. PR 보내기
 
+## 오아시스 (Oasis)
+
+- Artist: 한요한 (Han Yo Han)
+- Genre: Rap / Hip-Hop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=iwwb-HDfF9I)
+
 ## 한 페이지가 될 수 있게
 - Artist: DAY6 (데이식스)
 - Genre: 록 / 밴드
