@@ -10,6 +10,11 @@
 4. 브랜치 만들기: `issueID`-노래 이름 (e.x. `30-seebambar`)
 5. PR 보내기
 
+## 야간비행 (Turbulence) 
+- Artist: ATEEZ
+- Genre: KPOP
+- [유튜브 바로가기](https://youtu.be/BycpPeGWM-c?si=Ul5CbIUuArsCE-cM)
+
 ## Gemini 
 - Artist: 태연
 - Genre: Kpop
